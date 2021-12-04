@@ -133,7 +133,7 @@ class App extends React.Component {
 
 var AppWithRouter = withRouter(App);
 	
-var webRoot = "/ajko";
+var webRoot = "";
 	
 // Construct the app, passing it the data.
 ReactDOM.render((
